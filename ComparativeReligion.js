@@ -1,0 +1,1 @@
+export default function ComparativeReligion() { return `<div style="padding:20px;"><h2>ComparativeReligion</h2><p>Placeholder content for ComparativeReligion feature.</p></div>`; }

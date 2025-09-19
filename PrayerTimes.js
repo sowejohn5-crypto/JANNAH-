@@ -1,0 +1,1 @@
+export default function PrayerTimes() { return `<div style="padding:20px;"><h2>PrayerTimes</h2><p>Placeholder content for PrayerTimes feature.</p></div>`; }

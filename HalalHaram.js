@@ -1,0 +1,1 @@
+export default function HalalHaram() { return `<div style="padding:20px;"><h2>HalalHaram</h2><p>Placeholder content for HalalHaram feature.</p></div>`; }

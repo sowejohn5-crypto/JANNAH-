@@ -1,0 +1,1 @@
+export default function DailyVerse() { return `<div style="padding:20px;"><h2>DailyVerse</h2><p>Placeholder content for DailyVerse feature.</p></div>`; }

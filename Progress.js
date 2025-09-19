@@ -1,0 +1,1 @@
+export default function Progress() { return `<div style="padding:20px;"><h2>Progress</h2><p>Placeholder content for Progress feature.</p></div>`; }

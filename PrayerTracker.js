@@ -1,0 +1,1 @@
+export default function PrayerTracker() { return `<div style="padding:20px;"><h2>PrayerTracker</h2><p>Placeholder content for PrayerTracker feature.</p></div>`; }

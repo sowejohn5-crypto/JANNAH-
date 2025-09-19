@@ -1,0 +1,1 @@
+export default function Reciters() { return `<div style="padding:20px;"><h2>Reciters</h2><p>Placeholder content for Reciters feature.</p></div>`; }

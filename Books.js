@@ -1,0 +1,1 @@
+export default function Books() { return `<div style="padding:20px;"><h2>Books</h2><p>Placeholder content for Books feature.</p></div>`; }

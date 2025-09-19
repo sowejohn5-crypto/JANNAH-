@@ -1,0 +1,1 @@
+export default function Tutorials() { return `<div style="padding:20px;"><h2>Tutorials</h2><p>Placeholder content for Tutorials feature.</p></div>`; }

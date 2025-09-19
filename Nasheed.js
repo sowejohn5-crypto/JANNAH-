@@ -1,0 +1,1 @@
+export default function Nasheed() { return `<div style="padding:20px;"><h2>Nasheed</h2><p>Placeholder content for Nasheed feature.</p></div>`; }

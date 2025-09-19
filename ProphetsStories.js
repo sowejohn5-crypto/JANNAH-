@@ -1,0 +1,1 @@
+export default function ProphetsStories() { return `<div style="padding:20px;"><h2>ProphetsStories</h2><p>Placeholder content for ProphetsStories feature.</p></div>`; }

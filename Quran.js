@@ -1,0 +1,1 @@
+export default function Quran() { return `<div style="padding:20px;"><h2>Quran</h2><p>Placeholder content for Quran feature.</p></div>`; }
